@@ -15,7 +15,10 @@ img, svg, video, canvas, audio, iframe, embed, object {
     width: 100%;
 }
 .education{
-    background-color: rgb(240, 243, 217);
+    background-color: rgb(255, 255, 252);
+}
+.max-w-7xl{
+  max-width: 113rem !important;
 }
 .exp{
     margin-left: -35px !important;

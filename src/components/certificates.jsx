@@ -13,7 +13,7 @@ function Certificate(){
         <h2 class="text-3xl font-bold mt-4">Certificates</h2>      
         </div>
         </div>
-        <div className='border-2 mt-5 bg-white rounded-2xl'>
+        <div className='mt-5 bg-white rounded-2xl'>
         <div className="flex flex-row justify-center items-center max-sm:flex-col">
         {/* first card */}
         <div class="cookieCard rounded-xl max-sm:w-64">

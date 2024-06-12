@@ -13,7 +13,7 @@ function Projects(){
         <h2 class="text-3xl font-bold">Projects</h2>      
         </div>
         </div>
-        <div className='border-2 mt-5 bg-white rounded-2xl'>
+        <div className=' mt-5 bg-white rounded-2xl'>
         {/* First box */}
         <div className="flex flex-row justify-center items-center max-sm:flex-col ">
             {/* first card */}
