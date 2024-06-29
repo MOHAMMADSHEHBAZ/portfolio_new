@@ -1,9 +1,10 @@
-import weather from './images/waether.jpg';
+import weather from './images/weatherP.png';
 import speech from './images/speech.jpg';
 import code from './images/code.jpg';
 import menu from './images/menu.jpg';
 import tictac from './images/tictac.png';
 import text from './images/text.jpg';
+import qr from './images/qr.png'
 function Projects(){
     return(
         <>
@@ -18,7 +19,7 @@ function Projects(){
         <div className="flex flex-row justify-center items-center max-sm:flex-col ">
             {/* first card */}
             <div class="card max-sm:w-5/6" style={{ backgroundImage: `url(${weather})`, backgroundSize:`cover`, height:`100% !important`}}>
-            <p className='heading'>Weather App</p>
+            {/* <p className='heading'>Weather App</p> */}
             <div class="card__content">
             <p class="card__title">Weather App</p>
             <p class="card__description">–An application for searching weather of different countries and cities with the help of API
@@ -26,12 +27,12 @@ function Projects(){
             <p class="card__description">–Built using HTML,CSS,JavaScript,ReactJS
             </p>
             <p class="card__description mt-10">
-            <a href="https://github.com/MOHAMMADSHEHBAZ/Weather-App.git" target='_blank'>
+            <a href="https://dailyweatherupdates.vercel.app" target='_blank'>
             <button
             type="button"
             class="rounded-md bg-green-600 px-3 py-2 text-sm font-semibold text-white shadow-sm hover:bg-green-600/80 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-green-600"
             >
-            GitHub
+            Live
             </button></a>
             </p>
             </div>
@@ -105,21 +106,21 @@ function Projects(){
         {/* third box */}
         <div className="flex flex-row justify-center items-center max-sm:flex-col">
             {/* first card */}
-            <div class="card max-sm:w-5/6" style={{ backgroundImage: `url(${tictac})`, backgroundSize:`cover`, height:`100% !important`}}>
-            <p className='heading' style={{color:"white"}}>Tic Tac Toe</p>
+            <div class="card max-sm:w-5/6" style={{ backgroundImage: `url(${qr})`, backgroundSize:`cover`, height:`100% !important`}}>
+            <p className='heading' style={{color:"white"}}>QR Code Generator</p>
             <div class="card__content">
-            <p class="card__title">Tic Tac Toe</p>
-            <p class="card__description">–Tic Tac Toe Game
-            </p>
+            <p class="card__title">QR Code Generator</p>
+            <p class="card__description">–QR Code Generator</p>
+            <p class="card__description">–Used to convert text into a scannable QRCode</p>
             <p class="card__description">–Built using HTML,CSS,JavaScript,ReactJS
             </p>
             <p class="card__description mt-10">
-            <a href="https://github.com/MOHAMMADSHEHBAZ/Tic_Tac_Toe.git" target='_blank'>    
+            <a href="https://qrcodeconvertor.vercel.app/" target='_blank'>    
             <button
             type="button"
             class="rounded-md bg-green-600 px-3 py-2 text-sm font-semibold text-white shadow-sm hover:bg-green-600/80 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-green-600"
             >
-            GitHub
+            Live
             </button></a>
             </p>
             </div>
