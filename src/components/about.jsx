@@ -1,11 +1,15 @@
 import img from './images/bg.jpg'
+import img1 from './images/bg1.jpg'
+import img2 from './images/bg2.jpg'
+import img3 from './images/bg3.jpg'
+import img4 from './images/bg4.jpg'
 import profile from './images/profile.jpg'
 import './style.css'
 import file from './resume/Resume.pdf'
 function About(){
     return(
         <>
-        <div class="flex flex-col items-center justify-center rounded-md md:flex-row p-10" style={{ backgroundImage: `url(${img})`, backgroundSize:`cover`, height:`100% !important`}}>
+        <div class="flex flex-col bg items-center justify-center md:flex-row p-10" style={{ backgroundImage: `url(${img4})`, backgroundSize:`cover`, height:`100% !important`}}>
   <div class="flex">
     <img
       src={profile}
@@ -19,7 +23,7 @@ function About(){
         Mohammad Shehbaz
       </h1>
       <p class="mt-3 text-white font-bold">
-        Master of Computer Application
+      Full Stack Developer
       </p>
       <div class="mt-4">
         <span className="p-4 mb-2 mr-2 inline-block rounded-full bg-gray-100 px-3 py-1 text-[10px] font-semibold text-gray-900 ">

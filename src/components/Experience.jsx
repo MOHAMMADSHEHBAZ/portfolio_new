@@ -44,7 +44,7 @@ function Experience(){
                       <p>– Built a dynamic website using PHP to display data from the backend, enhancing data visibility and
                       user interaction. </p>
                       <p className="pb-1">– Developed and maintained RESTful APIs using Laravel, facilitating seamless communication between
-                      frontend and backend systems. other developers.</p>
+                      frontend and backend systems.</p>
                       <p className="pb-1">– Tech Stack used HTML , CSS , Javascript , MySQL , Angular , PHP AND Laravel .</p>
                       </div>
                     </div>

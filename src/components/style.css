@@ -11,6 +11,9 @@ img, svg, video, canvas, audio, iframe, embed, object {
     display: inline !important;
     vertical-align: middle;
 }
+.bg{
+  border-radius: 0.375rem 0.375rem 0px 0px;
+}
 .left{
     width: 100%;
 }
