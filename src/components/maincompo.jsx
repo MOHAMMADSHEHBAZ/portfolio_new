@@ -3,6 +3,7 @@ import Education from './Education.jsx';
 import Experience from './Experience.jsx';
 import About from './about.jsx'
 import Certificate from './certificates.jsx';
+import Footer from './footer.jsx';
 import Projects from './projects.jsx';
 import Skills from './skills.jsx';
 import './style.css'
@@ -17,6 +18,7 @@ function Maincompo(){
             <Experience/>
             <Projects/>
             <Certificate/>
+            <Footer/>
         </div>
         </div>
         <div className='py-2'></div>
