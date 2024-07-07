@@ -160,7 +160,7 @@ img, svg, video, canvas, audio, iframe, embed, object {
 }.cookieCard {
   width: 300px;
   height: 200px;
-  background: linear-gradient(to right,rgb(137, 104, 255),rgb(175, 152, 255));
+  background: #2980b9;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -175,7 +175,7 @@ img, svg, video, canvas, audio, iframe, embed, object {
   width: 150px;
   height: 150px;
   content: "";
-  background: linear-gradient(to right,rgb(142, 110, 255),rgb(182, 162, 255));
+  background: #2980b9;
   position: absolute;
   z-index: 1;
   border-radius: 50%;
@@ -202,7 +202,8 @@ img, svg, video, canvas, audio, iframe, embed, object {
 
 .acceptButton {
   padding: 11px 20px;
-  background-color: #7b57ff;
+  background-color: #2980b9;
+  opacity: 0.5;
   transition-duration: .2s;
   border: none;
   color: rgb(241, 241, 241);
@@ -212,7 +213,9 @@ img, svg, video, canvas, audio, iframe, embed, object {
 }
 
 .acceptButton:hover {
-  background-color: #714aff;
+  color: #fff;
+  background-color: #0077b5;
+  text-decoration: underline;
   transition-duration: .2s;
 }
 /* certificate */
@@ -221,7 +224,7 @@ img, svg, video, canvas, audio, iframe, embed, object {
   justify-content: center;
   align-items: center;
   height: 50px;
-  background-color: rgb(92, 91, 91);
+  /* background-color: #a9e1ff; */
   box-shadow: 0px 0px 15px #00000027;
   padding: 15px 10px;
   /* border-radius: 5em; */
