@@ -62,7 +62,7 @@ function Education(){
                   <div class="text-sm text-gray-700">Greater Noida, Uttar Pradesh</div>
                 </td>
                 <td class="whitespace-nowrap px-4 py-4">
-                  <span class="inline-flex rounded-md bg-gray-200 px-2 py-1 text-m font-semibold leading-5 text-green-800">
+                  <span class="inline-flex rounded-md bg-gray-200 px-2 py-1 text-m font-semibold leading-5 ">
                     2022-2024
                   </span>
                 </td>
@@ -93,7 +93,7 @@ function Education(){
                   <div class="text-sm text-gray-700">New Delhi, Delhi</div>
                 </td>
                 <td class="whitespace-nowrap px-4 py-4">
-                  <span class="inline-flex rounded-md bg-gray-200 px-2 py-1 text-m font-semibold leading-5 text-green-800">
+                  <span class="inline-flex rounded-md bg-gray-200 px-2 py-1 text-m font-semibold leading-5 ">
                     2018-2021
                   </span>
                 </td>
@@ -124,7 +124,7 @@ function Education(){
                   <div class="text-sm text-gray-700">New Delhi, Delhi</div>
                 </td>
                 <td class="whitespace-nowrap px-4 py-4">
-                  <span class="inline-flex rounded-md bg-gray-200 px-2 py-1 text-m font-semibold leading-5 text-green-800">
+                  <span class="inline-flex rounded-md bg-gray-200 px-2 py-1 text-m font-semibold leading-5 ">
                     2017-2018
                   </span>
                 </td>
@@ -155,7 +155,7 @@ function Education(){
                   <div class="text-sm text-gray-700">New Delhi, Delhi</div>
                 </td>
                 <td class="whitespace-nowrap px-4 py-4">
-                  <span class="inline-flex rounded-md bg-gray-200 px-2 py-1 text-m font-semibold leading-5 text-green-800">
+                  <span class="inline-flex rounded-md bg-gray-200 px-2 py-1 text-m font-semibold leading-5 ">
                     2015-2016
                   </span>
                 </td>

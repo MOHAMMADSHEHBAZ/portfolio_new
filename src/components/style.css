@@ -160,7 +160,8 @@ img, svg, video, canvas, audio, iframe, embed, object {
 }.cookieCard {
   width: 300px;
   height: 200px;
-  background: #2980b9;
+  background: rgb(165, 164, 164);
+  /* background: #56a5da; */
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -175,7 +176,8 @@ img, svg, video, canvas, audio, iframe, embed, object {
   width: 150px;
   height: 150px;
   content: "";
-  background: #2980b9;
+  /* background: #3f8cc0; */
+  background: rgb(165, 164, 164);
   position: absolute;
   z-index: 1;
   border-radius: 50%;
@@ -202,8 +204,8 @@ img, svg, video, canvas, audio, iframe, embed, object {
 
 .acceptButton {
   padding: 11px 20px;
-  background-color: #2980b9;
-  opacity: 0.5;
+  /* background-color: #2980b9; */
+  background: rgb(165, 164, 164);
   transition-duration: .2s;
   border: none;
   color: rgb(241, 241, 241);
@@ -214,7 +216,7 @@ img, svg, video, canvas, audio, iframe, embed, object {
 
 .acceptButton:hover {
   color: #fff;
-  background-color: #0077b5;
+  background-color: #777;
   text-decoration: underline;
   transition-duration: .2s;
 }
@@ -224,8 +226,8 @@ img, svg, video, canvas, audio, iframe, embed, object {
   justify-content: center;
   align-items: center;
   height: 50px;
-  /* background-color: #a9e1ff; */
-  box-shadow: 0px 0px 15px #00000027;
+  background-color: rgb(255, 255, 252);;
+  /* box-shadow: 0px 0px 15px #00000027; */
   padding: 15px 10px;
   /* border-radius: 5em; */
 }
