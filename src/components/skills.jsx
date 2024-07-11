@@ -1,7 +1,7 @@
 function Skills(){
     return(
         <>
-        <section class="mx-auto w-full max-w-7xl px-4 py-7 education">
+        <section class="mx-auto w-full max-w-7xl px-4 py-2 education">
         <div class="flex flex-col space-y-4 md:flex-row md:items-center md:justify-between md:space-y-0">
     <div>
       <h2 class="text-3xl font-bold">Skills</h2>
