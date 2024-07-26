@@ -8,7 +8,7 @@ import qr from './images/qr.png'
 function Projects(){
     return(
         <>
-        <section class="mx-auto w-full max-w-7xl px-4 py-0 education">
+        <section class="mx-auto w-full max-w-7xl px-4 py-5 education">
         <div class="flex flex-col space-y-4 md:flex-row md:items-center md:justify-between md:space-y-0">
         <div>
         <h2 class="text-3xl font-bold">Projects</h2>      
@@ -30,7 +30,7 @@ function Projects(){
             <a href="https://dailyweatherupdates.vercel.app" target='_blank'>
             <button
             type="button"
-            class="rounded-md bg-green-600 px-3 py-2 text-sm font-semibold text-white shadow-sm hover:bg-green-600/80 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-green-600"
+            class="rounded-md bg-blue-500 px-3 py-2 text-sm font-semibold text-white shadow-sm hover:bg-green-600/80 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-green-600"
             >
             Live
             </button></a>

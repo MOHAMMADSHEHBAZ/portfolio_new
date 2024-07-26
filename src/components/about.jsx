@@ -23,7 +23,7 @@ function About(){
       <h1 class="inline-flex items-center text-white text-6xl font-bold max-sm:text-2xl">
         Mohammad Shehbaz
       </h1>
-      <p class="mt-3 text-white font-bold">
+      <p class="mt-3 text-lg text-white font-bold">
       Full Stack Developer
       </p>
       <div class="mt-4">
