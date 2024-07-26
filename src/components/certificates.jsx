@@ -15,7 +15,7 @@ function Certificate(){
         <div className='md:flex items-center justify-center pb-5'>
           <div className='md:grid md:grid-cols-2 md:gap-8'>
 
-            <a href="#" className="block max-w-xl p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
+            <a href="#" className="block max-w-xl p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100">
             <img src={html} className='max-w-20' alt="" />    
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">HTML from SoloLearn</h5>
             <p>
@@ -24,7 +24,7 @@ function Certificate(){
             </a>
             </p>
             </a>  
-            <a href="#" className="block max-w-xl p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
+            <a href="#" className="block max-w-xl p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100">
             <img src={css} className='max-w-20' alt="" />    
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">HackerRank CSS Certification</h5>
             <p>
@@ -33,7 +33,7 @@ function Certificate(){
             </a>    
             </p>
             </a>  
-            <a href="#" className="block max-w-xl p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
+            <a href="#" className="block max-w-xl p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100">
             <img src={js} className='max-w-20' alt="" />    
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">JavaScript Programming from GreatLerning</h5>
             <p>
@@ -42,7 +42,7 @@ function Certificate(){
             </a>
             </p>
             </a>  
-            <a href="#" className="block max-w-xl p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
+            <a href="#" className="block max-w-xl p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100">
             <img src={web} className='max-w-20' alt="" />    
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Web Development Bootcamp From Udemys</h5>
             <p>
@@ -51,7 +51,7 @@ function Certificate(){
             </a>
             </p>
             </a>  
-            <a href="#" className="block max-w-xl p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
+            <a href="#" className="block max-w-xl p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100">
             <img src={mysql} className='max-w-20' alt="" />    
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">MySQL from GreatLerning</h5>
             <p>
@@ -60,7 +60,7 @@ function Certificate(){
             </a>
             </p>
             </a>  
-            <a href="#" className="block max-w-xl p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
+            <a href="#" className="block max-w-xl p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100">
             <img src={ibm} className='max-w-20' alt="" />    
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Web Development Fundamentals, on IBM SkillsBulid</h5>
             <p>

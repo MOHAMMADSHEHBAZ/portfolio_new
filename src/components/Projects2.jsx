@@ -18,7 +18,7 @@ const Projects2 = () => {
       <div className='md:flex items-center justify-center'>
         <div className='md:grid md:grid-cols-2 md:gap-8'>
             
-        <a class="block max-w-xl bg-white border border-gray-200 rounded-t-lg shadow dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
+        <a class="block max-w-xl bg-white border border-gray-200 rounded-t-lg shadow">
         <img src={weather} className=' rounded-t-lg min-h-72 min-w-full' alt="" />
         <div className='p-5'>
         <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Weather App</h5>
@@ -49,7 +49,7 @@ const Projects2 = () => {
         </div>
         </a>
             
-        <a class="block max-w-xl bg-white border border-gray-200 rounded-t-lg shadow dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
+        <a class="block max-w-xl bg-white border border-gray-200 rounded-t-lg shadow">
         <img src={speech} className='rounded-t-lg max-h-72 min-w-full' alt="" />
         <div className='p-5'>
         <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Speech Recognition App</h5>
@@ -80,7 +80,7 @@ const Projects2 = () => {
         </div>
         </a>
             
-        <a class="block max-w-xl bg-white border border-gray-200 rounded-t-lg shadow dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
+        <a class="block max-w-xl bg-white border border-gray-200 rounded-t-lg shadow">
         <img src={code} className='rounded-t-lg max-h-72 min-w-full' alt="" />
         <div className='p-5'>
         <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Online Code Editor</h5>
@@ -111,7 +111,7 @@ const Projects2 = () => {
         </div>
         </a>
             
-        <a class="block max-w-xl bg-white border border-gray-200 rounded-t-lg shadow dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
+        <a class="block max-w-xl bg-white border border-gray-200 rounded-t-lg shadow">
         <img src={menu} className='rounded-t-lg max-h-72 min-w-full' alt="" />
         <div className='p-5'>
         <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Restaurant WebPage</h5>
@@ -142,7 +142,7 @@ const Projects2 = () => {
         </div>
         </a>
             
-        <a class="block max-w-xl bg-white border border-gray-200 rounded-t-lg shadow dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
+        <a class="block max-w-xl bg-white border border-gray-200 rounded-t-lg shadow">
         <img src={qr} className='rounded-t-lg max-h-72 min-w-full' alt="" />
         <div className='p-5'>
         <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">QR Code Generator</h5>
@@ -161,7 +161,7 @@ const Projects2 = () => {
         </span>
         </p>
         <p class="font-normal text-gray-700 dark:text-gray-400">
-        <a href="qr-code-generator-mu-umber.vercel.app">
+        <a href="https://qrcodeconvertor.vercel.app/">
         <button type="button" class="text-white bg-blue-700 hover:bg-green-600 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800">Live
         </button> 
         </a>  
@@ -173,7 +173,7 @@ const Projects2 = () => {
         </div>
         </a>
             
-        <a class="block max-w-xl bg-white border border-gray-200 rounded-t-lg shadow dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
+        <a class="block max-w-xl bg-white border border-gray-200 rounded-t-lg shadow">
         <img src={text} className='rounded-t-lg max-h-72 min-w-full' alt="" />
         <div className='p-5'>
         <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Text To Speech</h5>
