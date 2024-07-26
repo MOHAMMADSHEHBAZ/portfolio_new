@@ -17,7 +17,7 @@ function Certificate(){
 
             <a href="#" className="block max-w-xl p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100">
             <img src={html} className='max-w-20' alt="" />    
-            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">HTML from SoloLearn</h5>
+            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900">HTML from SoloLearn</h5>
             <p>
             <a href="https://www.sololearn.com/Certificate/CT-HOIVRMGT/pdf">
             <button type="button" class="text-gray-900 hover:text-white border border-gray-800 hover:bg-gray-900 focus:ring-4 focus:outline-none focus:ring-gray-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2 dark:border-gray-600 dark:text-gray-400 dark:hover:text-white dark:hover:bg-gray-600 dark:focus:ring-gray-800">See Credential</button>   
@@ -26,7 +26,7 @@ function Certificate(){
             </a>  
             <a href="#" className="block max-w-xl p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100">
             <img src={css} className='max-w-20' alt="" />    
-            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">HackerRank CSS Certification</h5>
+            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 ">HackerRank CSS Certification</h5>
             <p>
             <a href="https://www.hackerrank.com/certificates/8f764105f21d">
             <button type="button" class="text-gray-900 hover:text-white border border-gray-800 hover:bg-gray-900 focus:ring-4 focus:outline-none focus:ring-gray-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2 dark:border-gray-600 dark:text-gray-400 dark:hover:text-white dark:hover:bg-gray-600 dark:focus:ring-gray-800">See Credential</button>   
@@ -35,7 +35,7 @@ function Certificate(){
             </a>  
             <a href="#" className="block max-w-xl p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100">
             <img src={js} className='max-w-20' alt="" />    
-            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">JavaScript Programming from GreatLerning</h5>
+            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 ">JavaScript Programming from GreatLerning</h5>
             <p>
             <a href="https://verify.mygreatlearning.com/verify/DXZETUXH">
             <button type="button" class="text-gray-900 hover:text-white border border-gray-800 hover:bg-gray-900 focus:ring-4 focus:outline-none focus:ring-gray-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2 dark:border-gray-600 dark:text-gray-400 dark:hover:text-white dark:hover:bg-gray-600 dark:focus:ring-gray-800">See Credential</button>   
@@ -44,7 +44,7 @@ function Certificate(){
             </a>  
             <a href="#" className="block max-w-xl p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100">
             <img src={web} className='max-w-20' alt="" />    
-            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Web Development Bootcamp From Udemys</h5>
+            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 ">Web Development Bootcamp From Udemys</h5>
             <p>
             <a href="https://www.udemy.com/certificate/UC-26889b35-77ad-4107-8a10-3f1d26c12ded/">
             <button type="button" class="text-gray-900 hover:text-white border border-gray-800 hover:bg-gray-900 focus:ring-4 focus:outline-none focus:ring-gray-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2 dark:border-gray-600 dark:text-gray-400 dark:hover:text-white dark:hover:bg-gray-600 dark:focus:ring-gray-800">See Credential</button>   
@@ -53,7 +53,7 @@ function Certificate(){
             </a>  
             <a href="#" className="block max-w-xl p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100">
             <img src={mysql} className='max-w-20' alt="" />    
-            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">MySQL from GreatLerning</h5>
+            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900">MySQL from GreatLerning</h5>
             <p>
             <a href="https://verify.mygreatlearning.com/verify/BEQKPHPV">
             <button type="button" class="text-gray-900 hover:text-white border border-gray-800 hover:bg-gray-900 focus:ring-4 focus:outline-none focus:ring-gray-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2 dark:border-gray-600 dark:text-gray-400 dark:hover:text-white dark:hover:bg-gray-600 dark:focus:ring-gray-800">See Credential</button>   
@@ -62,7 +62,7 @@ function Certificate(){
             </a>  
             <a href="#" className="block max-w-xl p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100">
             <img src={ibm} className='max-w-20' alt="" />    
-            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Web Development Fundamentals, on IBM SkillsBulid</h5>
+            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900">Web Development Fundamentals, on IBM SkillsBulid</h5>
             <p>
             <a href="https://www.credly.com/badges/311c22c9-6eb4-4584-9a79-8c99fcb0b08c/print">
             <button type="button" class="text-gray-900 hover:text-white border border-gray-800 hover:bg-gray-900 focus:ring-4 focus:outline-none focus:ring-gray-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2 dark:border-gray-600 dark:text-gray-400 dark:hover:text-white dark:hover:bg-gray-600 dark:focus:ring-gray-800">See Credential</button>   

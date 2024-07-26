@@ -21,7 +21,7 @@ const Projects2 = () => {
         <a class="block max-w-xl bg-white border border-gray-200 rounded-t-lg shadow">
         <img src={weather} className=' rounded-t-lg min-h-72 min-w-full' alt="" />
         <div className='p-5'>
-        <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Weather App</h5>
+        <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900">Weather App</h5>
         <p class="font-normal text-gray-700 dark:text-gray-400">
         <span class="mb-2 mr-2 inline-block rounded-md bg-blue-50 px-3 py-1 text-[16px] font-semibold text-gray-900">
         HTML    
@@ -52,7 +52,7 @@ const Projects2 = () => {
         <a class="block max-w-xl bg-white border border-gray-200 rounded-t-lg shadow">
         <img src={speech} className='rounded-t-lg max-h-72 min-w-full' alt="" />
         <div className='p-5'>
-        <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Speech Recognition App</h5>
+        <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900">Speech Recognition App</h5>
         <p class="font-normal text-gray-700 dark:text-gray-400">
         <span class="mb-2 mr-2 inline-block rounded-md bg-blue-50 px-3 py-1 text-[16px] font-semibold text-gray-900">
         HTML    
@@ -83,7 +83,7 @@ const Projects2 = () => {
         <a class="block max-w-xl bg-white border border-gray-200 rounded-t-lg shadow">
         <img src={code} className='rounded-t-lg max-h-72 min-w-full' alt="" />
         <div className='p-5'>
-        <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Online Code Editor</h5>
+        <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900">Online Code Editor</h5>
         <p class="font-normal text-gray-700 dark:text-gray-400">
         <span class="mb-2 mr-2 inline-block rounded-md bg-blue-50 px-3 py-1 text-[16px] font-semibold text-gray-900">
         HTML    
@@ -114,7 +114,7 @@ const Projects2 = () => {
         <a class="block max-w-xl bg-white border border-gray-200 rounded-t-lg shadow">
         <img src={menu} className='rounded-t-lg max-h-72 min-w-full' alt="" />
         <div className='p-5'>
-        <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Restaurant WebPage</h5>
+        <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900">Restaurant WebPage</h5>
         <p class="font-normal text-gray-700 dark:text-gray-400">
         <span class="mb-2 mr-2 inline-block rounded-md bg-blue-50 px-3 py-1 text-[16px] font-semibold text-gray-900">
         HTML    
@@ -145,7 +145,7 @@ const Projects2 = () => {
         <a class="block max-w-xl bg-white border border-gray-200 rounded-t-lg shadow">
         <img src={qr} className='rounded-t-lg max-h-72 min-w-full' alt="" />
         <div className='p-5'>
-        <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">QR Code Generator</h5>
+        <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900">QR Code Generator</h5>
         <p class="font-normal text-gray-700 dark:text-gray-400">
         <span class="mb-2 mr-2 inline-block rounded-md bg-blue-50 px-3 py-1 text-[16px] font-semibold text-gray-900">
         HTML    
@@ -176,7 +176,7 @@ const Projects2 = () => {
         <a class="block max-w-xl bg-white border border-gray-200 rounded-t-lg shadow">
         <img src={text} className='rounded-t-lg max-h-72 min-w-full' alt="" />
         <div className='p-5'>
-        <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Text To Speech</h5>
+        <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900">Text To Speech</h5>
         <p class="font-normal text-gray-700 dark:text-gray-400">
         <span class="mb-2 mr-2 inline-block rounded-md bg-blue-50 px-3 py-1 text-[16px] font-semibold text-gray-900">
         HTML    
