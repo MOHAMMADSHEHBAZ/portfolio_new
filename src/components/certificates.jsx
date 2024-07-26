@@ -9,7 +9,7 @@ function Certificate(){
         <>
         <div class="flex flex-col space-y-4 px-4 py-6 md:flex-row md:items-center md:justify-between md:space-y-0">
           <div>
-          <h2 class="text-3xl font-bold">Projects</h2>      
+          <h2 class="text-3xl font-bold">Certificates</h2>      
           </div>
         </div>
         <div className='md:flex items-center justify-center pb-5'>
