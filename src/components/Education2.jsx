@@ -21,7 +21,7 @@ const Education2 = () => {
             <div className="sm:flex w-full bg-gray-200 h-0.5 "></div>
         </div>
         <div className="mt-3 sm:pe-8">
-            <h3 className="text-lg font-semibold text-gray-900 dark:text-white">Masters of Computer Application</h3>
+            <h3 className="text-lg font-semibold text-gray-900 dark:text-gray-950">Masters of Computer Application</h3>
             <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">2022 - 2024</time>
             <p className="text-base font-normal text-gray-500 dark:text-gray-400">Sharda University</p>
             <p className="text-base font-normal text-gray-500 dark:text-gray-400">Greater Noida, Uttar Pradesh</p>
@@ -37,7 +37,7 @@ const Education2 = () => {
             <div className="sm:flex w-full bg-gray-200 h-0.5 "></div>
         </div>
         <div className="mt-3 sm:pe-8">
-            <h3 className="text-lg font-semibold text-gray-900 dark:text-white">Bachelor of Computer Application</h3>
+            <h3 className="text-lg font-semibold text-gray-900 dark:text-gray-950">Bachelor of Computer Application</h3>
             <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">2018 - 2021</time>
             <p className="text-base font-normal text-gray-500 dark:text-gray-400">Guru Gobind Singh Indraprastha University</p>
             <p className="text-base font-normal text-gray-500 dark:text-gray-400">New Delhi, Delhi</p>
@@ -53,7 +53,7 @@ const Education2 = () => {
             <div className="sm:flex w-full bg-gray-200 h-0.5 "></div>
         </div>
         <div className="mt-3 sm:pe-8">
-            <h3 className="text-lg font-semibold text-gray-900 dark:text-white">Senior Secondary School</h3>
+            <h3 className="text-lg font-semibold text-gray-900 dark:text-gray-950">Senior Secondary School</h3>
             <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">2017 - 2018</time>
             <p className="text-base font-normal text-gray-500 dark:text-gray-400">Jamia Millia Islamia, New Delhi</p>
             <p className="text-base font-normal text-gray-500 dark:text-gray-400">Delhi</p>
@@ -69,7 +69,7 @@ const Education2 = () => {
             <div className="sm:flex w-full bg-gray-200 h-0.5 "></div>
         </div>
         <div className="mt-3 sm:pe-8">
-            <h3 className="text-lg font-semibold text-gray-900 dark:text-white">Secondary School </h3>
+            <h3 className="text-lg font-semibold text-gray-900 dark:text-gray-950">Secondary School </h3>
             <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">2015-2016</time>
             <p className="text-base font-normal text-gray-500 dark:text-gray-400">Jamia Millia Islamia, New Delhi</p>
             <p className="text-base font-normal text-gray-500 dark:text-gray-400">Delhi</p>
