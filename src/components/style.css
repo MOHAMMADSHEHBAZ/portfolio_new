@@ -305,17 +305,26 @@ img, svg, video, canvas, audio, iframe, embed, object {
   fill: #c13584;
 }
 .animations{
-  margin:0;
-	padding:0;
-	font-family:"arial",heletica,sans-serif;
-	font-size:12px;
-    background: #2980b9 url('https://static.tumblr.com/03fbbc566b081016810402488936fbae/pqpk3dn/MRSmlzpj3/tumblr_static_bg3.png') repeat 0 0;
-	-webkit-animation: 10s linear 0s normal none infinite animate;
-	-moz-animation: 10s linear 0s normal none infinite animate;
-	-ms-animation: 10s linear 0s normal none infinite animate;
-	-o-animation: 10s linear 0s normal none infinite animate;
-	animation: 10s linear 0s normal none infinite animate;
+  
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+    background-size: 400% 400%;
+    animation: gradient 15s ease infinite;
+    /* height: 100vh; */
+  
 }
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
 .route{
   text-align: center;
   font-size: 18px;
