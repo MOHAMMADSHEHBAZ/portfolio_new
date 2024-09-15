@@ -20,7 +20,7 @@ const Projects2 = () => {
         <div className='md:grid md:grid-cols-2 md:gap-8'>
             
         <a class="block max-w-xl bg-white border border-gray-200 rounded-t-lg shadow">
-        <img src={weather} className=' rounded-t-lg min-h-72 min-w-full' alt="" />
+        <img src={weather} className=' rounded-t-lg min-h-72 min-w-full' alt="" loading='lazy' />
         <div className='p-5'>
         <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900">Weather App</h5>
         <p class="font-normal text-gray-700 dark:text-gray-400">
@@ -51,7 +51,7 @@ const Projects2 = () => {
         </a>
             
         <a class="block max-w-xl bg-white border border-gray-200 rounded-t-lg shadow">
-        <img src={speech} className='rounded-t-lg max-h-72 min-w-full' alt="" />
+        <img src={speech} className='rounded-t-lg max-h-72 min-w-full' alt="" loading='lazy'/>
         <div className='p-5'>
         <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900">Speech Recognition App</h5>
         <p class="font-normal text-gray-700 dark:text-gray-400">
@@ -82,7 +82,7 @@ const Projects2 = () => {
         </a>
 
         <a class="block max-w-xl bg-white border border-gray-200 rounded-t-lg shadow">
-        <img src={news} className='rounded-t-lg max-h-72 min-w-full' alt="" />
+        <img src={news} className='rounded-t-lg max-h-72 min-w-full' alt="" loading='lazy' />
         <div className='p-5'>
         <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900">News Application</h5>
         <p class="font-normal text-gray-700 dark:text-gray-400">
@@ -113,7 +113,7 @@ const Projects2 = () => {
         </a>
             
         <a class="block max-w-xl bg-white border border-gray-200 rounded-t-lg shadow">
-        <img src={code} className='rounded-t-lg max-h-72 min-w-full' alt="" />
+        <img src={code} className='rounded-t-lg max-h-72 min-w-full' alt="" loading='lazy' />
         <div className='p-5'>
         <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900">Online Code Editor</h5>
         <p class="font-normal text-gray-700 dark:text-gray-400">
@@ -144,7 +144,7 @@ const Projects2 = () => {
         </a>
 
         <a class="block max-w-xl bg-white border border-gray-200 rounded-t-lg shadow">
-        <img src={menu} className='rounded-t-lg max-h-72 min-w-full' alt="" />
+        <img src={menu} className='rounded-t-lg max-h-72 min-w-full' alt="" loading='lazy' />
         <div className='p-5'>
         <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900">Restaurant WebPage</h5>
         <p class="font-normal text-gray-700 dark:text-gray-400">
@@ -175,7 +175,7 @@ const Projects2 = () => {
         </a>
             
         <a class="block max-w-xl bg-white border border-gray-200 rounded-t-lg shadow">
-        <img src={qr} className='rounded-t-lg max-h-72 min-w-full' alt="" />
+        <img src={qr} className='rounded-t-lg max-h-72 min-w-full' alt="" loading="lazy"/>
         <div className='p-5'>
         <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900">QR Code Generator</h5>
         <p class="font-normal text-gray-700 dark:text-gray-400">
