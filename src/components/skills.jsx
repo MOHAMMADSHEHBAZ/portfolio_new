@@ -13,13 +13,16 @@ function Skills(){
       CSS    
       </span>
       <span class="mb-2 mr-2 inline-block rounded-md bg-blue-50 px-3 py-1 text-[16px] font-semibold text-gray-900">
-      Bootstrap    
-      </span>
-      <span class="mb-2 mr-2 inline-block rounded-md bg-blue-50 px-3 py-1 text-[16px] font-semibold text-gray-900">
       JavaScript    
       </span>
       <span class="mb-2 mr-2 inline-block rounded-md bg-blue-50 px-3 py-1 text-[16px] font-semibold text-gray-900">
+      Tailwind Css  
+      </span>
+      <span class="mb-2 mr-2 inline-block rounded-md bg-blue-50 px-3 py-1 text-[16px] font-semibold text-gray-900">
       ReactJs    
+      </span>
+      <span class="mb-2 mr-2 inline-block rounded-md bg-blue-50 px-3 py-1 text-[16px] font-semibold text-gray-900">
+      Redux    
       </span>
       <span class="mb-2 mr-2 inline-block rounded-md bg-blue-50 px-3 py-1 text-[16px] font-semibold text-gray-900">
       MySql 
@@ -41,7 +44,14 @@ function Skills(){
       PowerBI    
       </span> */}
       <span class="mb-2 mr-2 inline-block rounded-md bg-blue-50 px-3 py-1 text-[16px] font-semibold text-gray-900">
-      Tailwind CSS    
+      Bootstrap   
+      </span>
+      <h4 class="py-2 font-bold">Other</h4>
+      <span class="mb-2 mr-2 inline-block  rounded-md bg-blue-50 px-3 py-1 text-[16px] font-semibold text-gray-900">
+      Git Flow  
+      </span>
+      <span class="mb-2 mr-2 inline-block  rounded-md bg-blue-50 px-3 py-1 text-[16px] font-semibold text-gray-900">
+      Postman    
       </span>
     </div>
   </div>
