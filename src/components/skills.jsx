@@ -34,6 +34,9 @@ function Skills(){
       <span class="mb-2 mr-2 inline-block rounded-md bg-gray-100 px-3 py-1 text-[16px] font-semibold text-gray-900">
       Angular    
       </span>
+      <span class="mb-2 mr-2 inline-block rounded-md bg-gray-100 px-3 py-1 text-[16px] font-semibold text-gray-900">
+      Typescript    
+      </span>
       <span class="mb-2 mr-2 inline-block  rounded-md bg-gray-100 px-3 py-1 text-[16px] font-semibold text-gray-900">
       Laravel    
       </span>
