@@ -7,6 +7,7 @@ import Skills from './skills.jsx';
 import Education from './Education.jsx';
 import Experience from './Experience.jsx';
 import Education2 from './Education2.jsx';
+import Header from './Header.jsx';
 const MainAbout = () => {
   return (
     <>
@@ -17,7 +18,8 @@ const MainAbout = () => {
             {/* <Projects/> */}
             <Projects2/>
             <Certificate/>
-            <Footer/>
+            {/* <Footer/> */}
+            <Header/>
     </>
   )
 }
