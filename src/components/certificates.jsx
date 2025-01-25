@@ -13,9 +13,9 @@ function Certificate(){
           </div>
         </div>
         <div className='md:flex items-center justify-center pb-5'>
-          <div className='md:grid md:grid-cols-2 md:gap-8'>
+          <div className='md:grid md:grid-cols-2 p-3 md:gap-8'>
 
-            <a className="block max-w-xl p-6 bg-white border rounded-lg shadow">
+            <a className="block max-w-xl p-6 mb-5 bg-white border rounded-lg shadow">
             <img src={html} className='max-w-20' alt="" />    
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-800">HTML from SoloLearn</h5>
             <p>
@@ -24,7 +24,7 @@ function Certificate(){
             </a>
             </p>
             </a>  
-            <a className="block max-w-xl p-6 bg-white border rounded-lg shadow">
+            <a className="block max-w-xl p-6 mb-5 bg-white border rounded-lg shadow">
             <img src={css} className='max-w-20' alt="" />    
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-800 ">HackerRank CSS Certification</h5>
             <p>
@@ -33,7 +33,7 @@ function Certificate(){
             </a>    
             </p>
             </a>  
-            <a className="block max-w-xl p-6 bg-white border rounded-lg shadow">
+            <a className="block max-w-xl p-6 mb-5 bg-white border rounded-lg shadow">
             <img src={js} className='max-w-20' alt="" />    
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-800 ">JavaScript Programming from GreatLearning</h5>
             <p>
@@ -42,7 +42,7 @@ function Certificate(){
             </a>
             </p>
             </a>  
-            <a className="block max-w-xl p-6 bg-white border rounded-lg shadow">
+            <a className="block max-w-xl p-6 mb-5 bg-white border rounded-lg shadow">
             <img src={web} className='max-w-20' alt="" />    
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-800 ">Web Development Bootcamp From Udemys</h5>
             <p>
@@ -51,7 +51,7 @@ function Certificate(){
             </a>
             </p>
             </a>  
-            <a className="block max-w-xl p-6 bg-white border rounded-lg shadow">
+            <a className="block max-w-xl p-6 mb-5 bg-white border rounded-lg shadow">
             <img src={mysql} className='max-w-20' alt="" />    
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-800">MySQL from GreatLerning</h5>
             <p>
@@ -60,7 +60,7 @@ function Certificate(){
             </a>
             </p>
             </a>  
-            <a className="block max-w-xl p-6 bg-white border rounded-lg shadow">
+            <a className="block max-w-xl p-6 mb-5 bg-white border rounded-lg shadow">
             <img src={ibm} className='max-w-20' alt="" />    
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-800">Web Development Fundamentals, on IBM SkillsBulid</h5>
             <p>

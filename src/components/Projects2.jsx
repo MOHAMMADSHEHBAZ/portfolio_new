@@ -19,9 +19,9 @@ const Projects2 = () => {
         </div>
       </div>
       <div className='md:flex items-center justify-center'>
-        <div className='md:grid md:grid-cols-2 md:gap-8'>
+        <div className='md:grid md:grid-cols-2 p-3 md:gap-8'>
             
-        <a class="block max-w-xl bg-white border border-gray-200 rounded-t-lg shadow">
+        <a class="block max-w-xl mb-5 bg-white border border-gray-200 rounded-t-lg shadow">
         <img src={blog} className=' rounded-t-lg min-h-72 min-w-full' alt="" loading='lazy' />
         <div className='p-5'>
         <h5 class="mb-2 text-xl font-bold tracking-tight text-gray-800">Blogging Application</h5>
@@ -52,7 +52,7 @@ const Projects2 = () => {
         </div>
         </a>
 
-        <a class="block max-w-xl bg-white border border-gray-200 rounded-t-lg shadow">
+        <a class="block max-w-xl mb-5 bg-white border border-gray-200 rounded-t-lg shadow">
         <img src={notes} className=' rounded-t-lg min-h-72 min-w-full' alt="" loading='lazy' />
         <div className='p-5'>
         <h5 class="mb-2 text-xl font-bold tracking-tight text-gray-800">Notes Share</h5>
@@ -83,7 +83,7 @@ const Projects2 = () => {
         </div>
         </a>
 
-        <a class="block max-w-xl bg-white border border-gray-200 rounded-t-lg shadow">
+        <a class="block max-w-xl mb-5 bg-white border border-gray-200 rounded-t-lg shadow">
         <img src={weather} className=' rounded-t-lg min-h-72 min-w-full' alt="" loading='lazy' />
         <div className='p-5'>
         <h5 class="mb-2 text-xl font-bold tracking-tight text-gray-800">Weather App</h5>
@@ -114,7 +114,7 @@ const Projects2 = () => {
         </div>
         </a>
             
-        <a class="block max-w-xl bg-white border border-gray-200 rounded-t-lg shadow">
+        <a class="block max-w-xl mb-5 bg-white border border-gray-200 rounded-t-lg shadow">
         <img src={speech} className='rounded-t-lg max-h-72 min-w-full' alt="" loading='lazy'/>
         <div className='p-5'>
         <h5 class="mb-2 text-xl font-bold tracking-tight text-gray-800">Speech Recognition App</h5>
@@ -145,7 +145,7 @@ const Projects2 = () => {
         </div>
         </a>
 
-        <a class="block max-w-xl bg-white border border-gray-200 rounded-t-lg shadow">
+        <a class="block max-w-xl mb-5 bg-white border border-gray-200 rounded-t-lg shadow">
         <img src={news} className='rounded-t-lg max-h-72 min-w-full' alt="" loading='lazy' />
         <div className='p-5'>
         <h5 class="mb-2 text-xl font-bold tracking-tight text-gray-800">News Application</h5>
@@ -176,7 +176,7 @@ const Projects2 = () => {
         </div>
         </a>
             
-        <a class="block max-w-xl bg-white border border-gray-200 rounded-t-lg shadow">
+        <a class="block max-w-xl mb-5 bg-white border border-gray-200 rounded-t-lg shadow">
         <img src={code} className='rounded-t-lg max-h-72 min-w-full' alt="" loading='lazy' />
         <div className='p-5'>
         <h5 class="mb-2 text-xl font-bold tracking-tight text-gray-800">Online Code Editor</h5>
