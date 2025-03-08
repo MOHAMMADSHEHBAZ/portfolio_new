@@ -10,7 +10,7 @@ function About(){
     return(
         <>
         {/* <div class="flex flex-col bg items-center justify-center md:flex-row p-10 anmimations" style={{ backgroundImage: `url(${img4})`, backgroundSize:`cover`, height:`100% !important`}}> */}
-        <div class="flex flex-col bg items-center justify-center md:flex-row p-10 animations" >
+        <div class="flex flex-col bg1 items-center justify-center md:flex-row p-10 animations" >
   <div class="flex">
     {/* <img
       src={profile}
