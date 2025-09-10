@@ -53,9 +53,10 @@ function Certificate(){
             </a>  
             <a className="block max-w-xl p-6 mb-5 bg-white border rounded-lg shadow">
             <img src={mysql} className='max-w-20' alt="" />    
-            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-800">MySQL from GreatLerning</h5>
+            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-800">HackerRank SQL Certification</h5>
             <p>
-            <a href="https://verify.mygreatlearning.com/verify/BEQKPHPV">
+            <a href="https://www.hackerrank.com/certificates/c64c079f2dc6">
+            {/* <a href="https://verify.mygreatlearning.com/verify/BEQKPHPV"> */}
             <button type="button" class="text-white bg-gray-800 hover:text-gray-800 border hover:bg-white focus:ring-4 focus:outline-none focus:ring-gray-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2 ">See Credential</button>   
             </a>
             </p>
