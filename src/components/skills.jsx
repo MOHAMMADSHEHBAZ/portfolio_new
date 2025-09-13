@@ -30,6 +30,9 @@ function Skills(){
       <span class="mb-2 mr-2 inline-block rounded-md bg-gray-100 px-3 py-1 text-[16px] font-semibold text-gray-900">
       PHP 
       </span>
+      <span class="mb-2 mr-2 inline-block rounded-md bg-gray-100 px-3 py-1 text-[16px] font-semibold text-gray-900">
+      PL/Sql 
+      </span>
       <h4 class="py-2 font-bold text-gray-800">Familiar</h4>
       <span class="mb-2 mr-2 inline-block rounded-md bg-gray-100 px-3 py-1 text-[16px] font-semibold text-gray-900">
       Angular    
@@ -55,6 +58,12 @@ function Skills(){
       </span>
       <span class="mb-2 mr-2 inline-block  rounded-md bg-gray-100 px-3 py-1 text-[16px] font-semibold text-gray-900">
       Postman    
+      </span>
+      <span class="mb-2 mr-2 inline-block  rounded-md bg-gray-100 px-3 py-1 text-[16px] font-semibold text-gray-900">
+      Oracle Forms    
+      </span>
+      <span class="mb-2 mr-2 inline-block  rounded-md bg-gray-100 px-3 py-1 text-[16px] font-semibold text-gray-900">
+      Oracle Report  
       </span>
     </div>
   </div>
